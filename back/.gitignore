@@ -1,0 +1,55 @@
+# Entorno
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+migrar_db.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# *.json
+*.db
+*.sqlite
+geomarket.db
+
+# Logs
+*.log
+logs/
+
+# Temporal
+.tmp/
+temp/
+
+git config --global user.email "alfredo.lm392@gmail.com"
+git config --global user.name "AlfredoLM940430"
